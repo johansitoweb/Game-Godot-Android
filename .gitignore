@@ -1,0 +1,21 @@
+# Godot 4+ specific ignores
+.godot/
+.history/*
+.vscode/*
+*.build
+*.keystore
+*.pdn
+android/*
+android
+addons_examples/*
+assets/edited/*
+assets/musics/unedited/*
+assets/references/*
+assets/sound_effects/unused/*
+assets/saved_images/*
+fonts/Poppins/*
+releases/*
+secrets/api_keys/*
+!secrets/api_keys/.gitkeep
+secrets/encryption_keys/*
+!secrets/encryption_keys/.gitkeep
